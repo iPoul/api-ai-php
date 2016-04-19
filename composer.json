@@ -1,7 +1,7 @@
 {
-    "name": "gayanhewa/api-ai-php",
+    "name": "api-ai-php",
     "description": "API.ai PHP Package",
-    "type": "API Interface",
+    "type": "AI",
     "autoload": {
       "psr-4": {
         "AI\\":"src/"
