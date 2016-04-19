@@ -1,5 +1,5 @@
 {
-    "name": "api-ai-php",
+    "name": "gayanhewa/api-ai-php",
     "description": "API.ai PHP Package",
     "type": "AI",
     "autoload": {
