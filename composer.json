@@ -10,7 +10,7 @@
     "require": {
         "guzzlehttp/guzzle": "^6.2"
     },
-    "license": "GPL",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Gayan Hewa",
