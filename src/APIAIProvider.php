@@ -26,7 +26,7 @@ class APIAIProvider implements AIContract
       return json_decode($result, true);
   }
 
-  public fucntion __constrctor(String $key, String $serviceUrl)
+  public function __construct(String $key, String $serviceUrl)
   {
     $this->key = $key;
     $this->serviceUrl = $serviceUrl;
